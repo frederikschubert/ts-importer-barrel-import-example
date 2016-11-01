@@ -1,0 +1,14 @@
+{
+  "name": "barrel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frederik Schubert <frederik.schubert@inside-m2m.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.0.6"
+  }
+}
